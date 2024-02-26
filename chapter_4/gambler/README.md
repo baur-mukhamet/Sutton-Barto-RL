@@ -1,3 +1,3 @@
-# Gambler's Problem
+# Value Iteration: Gambler's Problem
 
 ![problem](problem.png)

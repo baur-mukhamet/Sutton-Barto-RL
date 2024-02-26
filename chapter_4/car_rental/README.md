@@ -1,4 +1,4 @@
-# Jack's Car Rental
+# Policy Iteration: Jack's Car Rental
 
 This is an implementation of Example 4.2 and problem 4.7 in Sutton-Barto: 
 
