@@ -15,6 +15,6 @@ My solutions to programming projects from the Reinforcement Learning book by [Su
 
 [Chapter 6](https://github.com/baur-mukhamet/Sutton-Barto-RL/tree/main/chapter_6): Windworld.
 
-    Algorithm: SARSA
+    Algorithm: SARSA temporal difference learning.
 
 
