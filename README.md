@@ -1,5 +1,5 @@
 # Sutton-Barto-RL
-My solutions to programming projects from the Reinforcement Learning book by [Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html). Also following [UCL-DeepMind RL](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=wiYHlUD98ZUMXGg6) lectures.
+My implementation of programming projects from the Reinforcement Learning book by [Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html). Also following [UCL-DeepMind RL](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=wiYHlUD98ZUMXGg6) lectures.
 
 [Chapter 2](https://github.com/baur-mukhamet/Sutton-Barto-RL/tree/main/chapter_2): k-armed bandit. 
     
